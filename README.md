@@ -1,2 +1,1 @@
-# probando-github
-este es un repositorio de prueba para el prepcourse de henry
+prueba de como crear un repositorio local y clonarlo desde github a mi computadora.
